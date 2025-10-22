@@ -1,4 +1,4 @@
-<h1 align="center">Xin chào 👋, mình là [Tên của bạn]</h1>
+<h1 align="center">Xin chào 👋, mình là Quach Nam Luong</h1>
 <h3 align="center">Đam mê Truyền thông số & Thương mại điện tử | Lập trình viên Full-Stack</h3>
 
 <p align="center">
@@ -18,8 +18,7 @@
   - Hệ thống quản lý nội dung (CMS)
   - Phát livestream với WebRTC
   - Tích hợp thương mại điện tử
-- 📫 Liên hệ: [your-email@example.com]
-- 🌐 Portfolio cá nhân: [https://your-portfolio.com](https://your-portfolio.com) *(nếu có)*
+- 📫 Liên hệ: quachnamluong@gmail.com
 
 ---
 
@@ -55,7 +54,7 @@
 - 🎥 Kết nối với YouTube, TikTok & Livestream WebRTC
 - 📈 Tối ưu Core Web Vitals và tích hợp Google Analytics
 
-[🔗 Xem mã nguồn trên GitHub](https://github.com/your-username/lookbook-project)
+[🔗 Xem mã nguồn trên GitHub](https://github.com/QuachNamLuong/WebsiteLookBookBanQuanAoExpressjsNextjs.git)
 
 ---
 
