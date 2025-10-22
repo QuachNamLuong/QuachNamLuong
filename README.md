@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Digital Media & E-Commerce Enthusiast | Full-Stack Developer</h3>
+<h1 align="center">Xin chào 👋, mình là [Tên của bạn]</h1>
+<h3 align="center">Đam mê Truyền thông số & Thương mại điện tử | Lập trình viên Full-Stack</h3>
 
 <p align="center">
-  🌟 Passionate about building digital platforms that empower local brands<br>
-  📷 Creating interactive Lookbooks & Social Commerce apps<br>
-  🚀 Exploring WebRTC, SEO, Multi-channel Publishing, and Agile Development
+  🌟 Đam mê xây dựng nền tảng số hỗ trợ các thương hiệu nội địa<br>
+  📷 Tạo ứng dụng Lookbook tương tác & Social Commerce<br>
+  🚀 Tìm hiểu WebRTC, SEO, xuất bản đa kênh và phát triển theo mô hình Agile
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Về mình
 
-- 🔭 I'm currently working on **"Lookbook số & Social Commerce cho Local Brand"**
-- 🎯 Goal: Build a web app that integrates content management, livestreaming, SEO, and e-commerce for local fashion brands.
-- 💬 Ask me about anything related to:
-  - Full-stack Web Development (Node.js, React, MongoDB)
-  - Content Management Systems (CMS)
-  - Livestreaming with WebRTC
-  - E-commerce integrations
-- 📫 Reach me at: [your-email@example.com]
-- 🌐 Visit my portfolio: [https://your-portfolio.com](https://your-portfolio.com) *(if any)*
+- 🔭 Hiện mình đang thực hiện dự án **"Lookbook số & Social Commerce cho Local Brand"**
+- 🎯 Mục tiêu: Xây dựng Web App tích hợp quản lý nội dung, livestream, tối ưu SEO và TMĐT cho các thương hiệu thời trang nội địa.
+- 💬 Bạn có thể hỏi mình về:
+  - Lập trình Web Full-stack (Node.js, React, MongoDB)
+  - Hệ thống quản lý nội dung (CMS)
+  - Phát livestream với WebRTC
+  - Tích hợp thương mại điện tử
+- 📫 Liên hệ: [your-email@example.com]
+- 🌐 Portfolio cá nhân: [https://your-portfolio.com](https://your-portfolio.com) *(nếu có)*
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 Công nghệ sử dụng
 
 **Frontend:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
@@ -33,11 +33,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
 
-**Database:**
+**Cơ sở dữ liệu:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 
-**Other Tools:**
+**Công cụ khác:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
@@ -45,20 +45,21 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Dự án nổi bật
 
-#### 🔗 Lookbook & Social Commerce Web App
-> A multimedia CMS platform supporting multichannel publishing (Web, FB, TikTok, Zalo, YouTube), livestream integration, short-form videos, and SEO optimization.
+#### 🔗 Ứng dụng Web Lookbook & Social Commerce
+> Nền tảng CMS đa phương tiện hỗ trợ xuất bản đa kênh (Web, FB, TikTok, Zalo, YouTube), tích hợp livestream, video ngắn và tối ưu SEO.
 
-- 🧱 Built using MERN stack
-- 🛒 Includes full e-commerce system: Cart, Orders, Payments
-- 🎥 Integrated with YouTube, TikTok & WebRTC livestreams
-- 📈 Optimized for Core Web Vitals and Google Analytics
+- 🧱 Xây dựng bằng MERN stack
+- 🛒 Tích hợp đầy đủ tính năng thương mại điện tử: Giỏ hàng, Đơn hàng, Thanh toán
+- 🎥 Kết nối với YouTube, TikTok & Livestream WebRTC
+- 📈 Tối ưu Core Web Vitals và tích hợp Google Analytics
 
-[🔗 GitHub Repo](https://github.com/your-username/lookbook-project)
+[🔗 Xem mã nguồn trên GitHub](https://github.com/your-username/lookbook-project)
 
+---
 
-### 🤝 Let's Connect
+### 🤝 Kết nối với mình
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
